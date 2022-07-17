@@ -187,21 +187,21 @@
         <div class="row">
             <div class="col span-1-of-3 customer">
                 <h3 style="font-size: xx-large;">&#8220;</h3>
-                <p>Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
+                <p class="cust">Omnifood is just awesome! I just launched a startup which leaves me with no time for cooking, so Omnifood is a life-saver. Now that I got used to it, I couldn't live without my daily meals!</p>
                 <img src="../images/customer-1.jpg" class="two">
                 <p class="two">Alberto Duncan</p>
 
             </div>
             <div class="col span-1-of-3 customer">
                 <h3 style="font-size: xx-large;">&#8220;</h3>
-                <p>Inexpensive, healthy and great-tasting meals, delivered right to my home. We have lots of food delivery here in Lisbon, but no one comes even close to Omifood. Me and my family are so in love!</p>
+                <p class="cust">Inexpensive, healthy and great-tasting meals, delivered right to my home. We have lots of food delivery here in Lisbon, but no one comes even close to Omifood. Me and my family are so in love!</p>
                 <img src=" ../images/customer-2.jpg " class="two ">
                 <p class="two ">Joana Silva</p>
 
             </div>
             <div class="col span-1-of-3 customer ">
                 <h3 style="font-size: xx-large;">&#8220;</h3>
-                <p>I was looking for a quick and easy food delivery service in San Franciso. I tried a lot of them and ended up with Omnifood. Best food delivery service in the Bay Area. Keep up the great work! </p>
+                <p class="cust">I was looking for a quick and easy food delivery service in San Franciso. I tried a lot of them and ended up with Omnifood. Best food delivery service in the Bay Area. Keep up the great work! </p>
                 <img src="../images/customer-3.jpg " class="two ">
                 <p class="two ">Milton Chapman</p>
 
